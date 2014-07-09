@@ -6,5 +6,4 @@ class Mail
 		echo 'send mail!';
 	}
 }
-send();
 ?>
